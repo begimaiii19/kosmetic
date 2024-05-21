@@ -2,6 +2,7 @@ import './Delivery.css';
 
 function Delivery() {
   return (
+    
     <>
       Delivery 
     </>

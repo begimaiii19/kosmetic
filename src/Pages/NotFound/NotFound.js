@@ -1,4 +1,4 @@
-import './HotFound.css';
+import './NotFound.css';
 
 function HotFound() {
   return (

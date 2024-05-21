@@ -1,6 +1,4 @@
 import './App.css';
-import Footer from './Components/Footer/Footer';
-import Header from './Components/Header/Header';
 import About from './Pages/About/About';
 import Home from './Pages/Home/Home';
 import Contacts from './Pages/Contacts/Contacts';
@@ -8,11 +6,14 @@ import Order from './Pages/Order/Order';
 import Delivery from './Pages/Delivery/Delivery';
 import Cart from './Pages/Cart/Cart';
 import NotFound from './Pages/NotFound/NotFound';
+import Header from './Componets/Header/Header';
+import Footer from './Componets/Footer/Footer';
 import {
   BrowserRouter as Router,
   Routes,
   Route
 } from 'react-router-dom'
+
 
 
 function App() {
